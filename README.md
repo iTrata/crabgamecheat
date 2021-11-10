@@ -1,4 +1,4 @@
-#The cheat got patched!
+# The cheat got patched!
 Sadly the cheat got patched and the only things that work are waypoints airjump and the player esp
 
 
