@@ -1,3 +1,7 @@
+#The cheat got patched!
+Sadly the cheat got patched and the only things that work are waypoints airjump and the player esp
+
+
 # Crab game cheat by stikosek
 A cheat / hack for the game Crab game by dani
 
